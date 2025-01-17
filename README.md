@@ -1,5 +1,3 @@
-# LinkedIn-Automation-Bot
-“A Python bot using Selenium for automating LinkedIn engagement.”
 # LinkedIn Automation Bot
 
 ## Overview
@@ -24,4 +22,4 @@ This project is a Python-based bot built using Selenium to automate LinkedIn pos
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/LinkedIn-Automation-Bot.git
+   git clone https://github.com/jay18-4/LinkedIn-Automation-Bot.git
