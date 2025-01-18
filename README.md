@@ -25,7 +25,6 @@ This project is a Python-based bot built using Selenium to automate LinkedIn pos
 1. **Random Comment Generation**:
    - The bot reads from a JSON file containing predefined phrases.
    - It selects a random combination of words to generate natural-looking comments.
-   - 
 
 2. **Automation**:
    - Logs into LinkedIn using Selenium.
