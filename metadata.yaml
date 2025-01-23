@@ -1,0 +1,17 @@
+project: LinkedIn Automation Bot
+description: >
+  A Python-based bot built using Selenium to automate LinkedIn engagement, including posting comments and interacting with posts.
+author: Ifediba Chimdalu
+date: 2025-01-18
+license: MIT
+tools:
+  - Python
+  - Selenium
+  - JSON
+dependencies:
+  - selenium
+  - chromedriver
+features:
+  - Automates commenting on LinkedIn posts
+  - Uses cookies for secure login
+  - Randomized comment generation with JSON
