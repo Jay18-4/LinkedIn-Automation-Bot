@@ -65,7 +65,7 @@ This ensures ` linkedin_cookies.pkl` won’t be uploaded, even if it’s acciden
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/LinkedIn-Automation-Bot.git
+   git clone https://github.com/Jay18-4/LinkedIn-Automation-Bot.git
    
 ## Prerequisites
 - Download the ChromeDriver that matches your browser version from [ChromeDriver Downloads](https://chromedriver.chromium.org/downloads).
